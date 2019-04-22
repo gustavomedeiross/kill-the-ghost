@@ -53,6 +53,7 @@ body{
 }
 #nicknamescreen button{
     -webkit-appearance: none;
+    background-color: white;
     font-size: 4vmin;
     font-family: bitstyle;
     margin: 10% auto 0;
