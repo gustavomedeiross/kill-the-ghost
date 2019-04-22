@@ -52,6 +52,7 @@ body{
     font-family: bitstyle;
 }
 #nicknamescreen button{
+    -webkit-appearance: none;
     font-size: 4vmin;
     font-family: bitstyle;
     margin: 10% auto 0;
@@ -100,7 +101,6 @@ body{
 }
 
 #score{
-    -webkit-appearance: none;
     display: none;
     position: absolute;
     top: 0;
