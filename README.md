@@ -3,4 +3,6 @@ This project is a simple vanilla JavaScript and CSS game that I made. To store t
 
 As I used localStorage, the score will be stored in your PC. If you want to clean up, you can copy and paste this command in your browser console: "localStorage.clear();". 
 
-You can test the site 
+Important: Although the game is working on mobile devices, it's not going to work really well, because the game is using the mousehover function to score it. Maybe I'll change that in the future.
+
+You play [here](https://mendes13.github.io/KillTheGhost/)
