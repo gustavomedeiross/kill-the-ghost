@@ -1,5 +1,5 @@
 # Kill The Ghost
-This project is a simple vanilla JavaScript and CSS game that I made. To store the score, I used localStorage. To score it, you have to hover the mouse over the ghost - try to score as much as you can! Have fun!
+This project is a simple vanilla JavaScript and CSS game that I've made. To store the score, I used localStorage. To score it, you have to hover the mouse over the ghost - try to score as much as you can! Have fun!
 
 As I used localStorage, the score will be stored in your PC. If you want to clean up, you can copy and paste this command in your browser console: "localStorage.clear();". 
 
